@@ -1,2 +1,5 @@
 # RaymasterOS
-the officail raymaster source code
+the official raymaster source code
+
+# Documentation
+some docs resources can be found here:
