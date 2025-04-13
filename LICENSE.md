@@ -1,3 +1,7 @@
+
+RaymasterOS License v1.0
+___________________________________________
+
 RaymasterOS by The Raymaster Team – https://github.com/Raymaster-team/RaymasterOS  
 Copyright © 2025 The Raymaster team  
 All Rights Reserved (for our original code)
