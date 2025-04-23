@@ -44,7 +44,7 @@ As long as you follow these simple rules:
 RaymasterOS may use external libraries or code licensed under open source terms such as MIT, GPL, or Apache.
 
 These components:
-- Are clearly marked in the codebase (`/LICENSES` folder or in file headers) NOTE: this is to be added, as the source code will not be finished for another year or so anyways.
+- Are clearly marked in the codebase (`/LICENSES` folder or in file headers)
 - Remain under their original licenses
 - Are respected fully — props to the devs 🙌
 
