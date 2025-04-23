@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Credits</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre;
-            margin: 20px;
-        }
-    </style>
-</head>
-<body>
-<title>Credits</title>
-
-<p>Gtk3
+Gtk3
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
@@ -65,6 +50,4 @@ Version 3, 29 June 2007
 
 Original Work
 GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007</p>
-</body>
-</html>
+Version 3, 29 June 2000
