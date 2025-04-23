@@ -52,7 +52,7 @@ These components:
 
 💌 Contact
 
-Want to collaborate or request exceptions? Hit us up at: funnicar@gmail.com, terpstragraham@gmail.com
+Want to collaborate or request exceptions? Hit us up at: funnicar@gmail.com, aguirechristopher03@gmail.com, terpstragraham@gmail.com
 Or make a pull request — we love community contributors.
 
 ────────────────────────────────────────────
