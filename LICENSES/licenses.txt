@@ -1,0 +1,55 @@
+Credits
+
+Gtk3
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Picom
+MIT License
+Mozilla Public License Version 2.0
+
+xfwm4
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+xfconf
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+wine
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 2.1, February 1999
+
+glade
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+adw-gtk3 theme
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+lightdm
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+lightdm gtk3 greeter
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+debian 13 base
+Homepage: https://www.debian.org/
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+plymouth
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+grub2
+Homepage: https://www.gnu.org/software/grub/
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Original Work
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
